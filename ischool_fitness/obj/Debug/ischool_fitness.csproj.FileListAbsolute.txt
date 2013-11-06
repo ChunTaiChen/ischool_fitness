@@ -1,0 +1,12 @@
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\bin\Debug\ischool_fitness.dll
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\bin\Debug\ischool_fitness.pdb
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\bin\Debug\SmartSchool.API.PlugIn.dll
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\bin\Debug\SmartSchool.Customization.PlugIn.dll
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\bin\Debug\SmartSchool.Customization.PlugIn.xml
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\ResolveAssemblyReference.cache
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\ischool_fitness.ImportExport.ExportStudentV2.resources
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\ischool_fitness.Properties.Resources.resources
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\GenerateResource.read.1.tlog
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\GenerateResource.write.1.tlog
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\ischool_fitness.dll
+D:\TFS2010\Research\chuntai\ischool_fitness\ischool_fitness\obj\Debug\ischool_fitness.pdb
